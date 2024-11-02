@@ -19,7 +19,7 @@ Proficient in JavaScript, Python, and C, I specialize in creating clean, interac
 
 
 ## <img src="https://github.com/user-attachments/assets/045c8703-5d8a-4bdc-a794-26f6db5ee508" width="20" height="20" style="vertical-align: middle;" /> GitHub Stats:
-<p align="center">
+<p align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=anugraheeth&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anugraheeth&theme=dark&hide_border=true&layout=compact" />
 </p>
