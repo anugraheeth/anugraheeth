@@ -18,16 +18,17 @@ Proficient in JavaScript, Python, and C, I specialize in creating clean, interac
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
-## <img src="https://github.com/user-attachments/assets/045c8703-5d8a-4bdc-a794-26f6db5ee508" width="20" height="20" style="vertical-align: middle;" /> GitHub Stats:
+## <img src="https://github.com/user-attachments/assets/183becf9-2ce6-48b3-9f2e-da47de87c0c5" width="30" height="30" style="vertical-align: middle;" /> GitHub Stats:
 <p align="center" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=anugraheeth&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anugraheeth&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anugraheeth&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anugraheeth&theme=dark&hide_border=true&layout=compact" width="440" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugraheeth&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
+
 ## Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anugraheethmohanan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anugraheethmohanan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anugraheeth) 
 ---
