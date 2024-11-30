@@ -1,4 +1,4 @@
-# Hi, I'm Anugraheeth
+# <img src="https://github.com/user-attachments/assets/fc1230a1-742f-4e42-a210-2aaf8684421e" width="50" height="50" style="border-radius:50;"/> Hi, I'm Anugraheeth
 
 I'm a B.Tech student passionate about UI/UX design, web development, and graphic design.<br>
 Proficient in JavaScript, Python, and C, I specialize in creating clean, interactive front-end solutions using **React**, **Tailwind CSS**, and **Three.js** for engaging web applications.
