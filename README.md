@@ -1,7 +1,7 @@
 # <img src="https://github.com/user-attachments/assets/fc1230a1-742f-4e42-a210-2aaf8684421e" width="50" height="50" style="border-radius:50;"/> Hi, I'm Anugraheeth
 
-I'm a B.Tech student passionate about UI/UX design, web development, and graphic design.<br>
-Proficient in JavaScript, Python, and C, I specialize in creating clean, interactive front-end solutions using **React**, **Tailwind CSS**, and **Three.js** for engaging web applications.
+I'm a B.Tech student passionate about UI/UX design, full stack development, and graphic design.<br>
+Proficient in JavaScript, Python, and C, I specialize in creating clean, interactive full-stack solutions using **React**, **Tailwind CSS**, **Node.js** and **Three.js** for engaging web applications.
 
 ## <img src="https://github.com/user-attachments/assets/abf6604f-539c-4a60-9618-e4f07ba780de" width="20" height="20" style="vertical-align: middle;" />  My Tech Stack:
 
